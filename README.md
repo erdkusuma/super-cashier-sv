@@ -1,10 +1,3 @@
-<style>
-img {
-  max-width: 55%;
-  height: auto;
-}
-</style>
-
 # SUPER-CASHIER SERVICE (Project)
 
 Sistem layanan kasir self-service berbasis bahasa pemrograman Python
